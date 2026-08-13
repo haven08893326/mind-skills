@@ -1,6 +1,13 @@
 # Mind Skills / 心智学技能
 
+[![Language: English + Chinese](https://img.shields.io/badge/language-English%20%2B%20Chinese-blue)](README.md)
+[![Status: Public](https://img.shields.io/badge/status-public-success)](https://github.com/haven08893326/mind-skills)
+
 A bilingual, non-clinical self-reflection toolkit for Chinese and English users. It covers emotional maturity, relationships, critical thinking, parenting, adolescent behavior, and workplace culture.
+
+## Who is it for?
+
+This project is for people who want structured reflection about emotional maturity, self-awareness, relationships, boundaries, family-of-origin patterns, independent thinking, parenting, or organizational culture.
 
 ## Features
 
@@ -11,6 +18,14 @@ A bilingual, non-clinical self-reflection toolkit for Chinese and English users.
 - Structured mind-body-consciousness intervention framework
 - Workplace culture and organizational maturity reflection
 - Chinese framework and original assessment materials preserved
+
+## Quick start
+
+1. Download [`mind-skills.zip`](https://github.com/haven08893326/mind-skills/raw/main/mind-skills.zip).
+2. Extract the archive.
+3. Copy the included `mind` folder into your Codex skills directory.
+4. Restart or refresh Codex.
+5. Ask a question in English or Chinese.
 
 ## Example prompts
 
@@ -34,10 +49,6 @@ English:
 - “孩子沉迷手机怎么办？”
 - “为什么团队总是推不动？”
 
-## Installation
-
-Download `mind-skills.zip`, extract it into your Codex skills directory, and restart or refresh Codex. The package includes a bilingual router and the original Chinese modules and question banks.
-
 ## Language behavior
 
 The skill replies in the user's language by default. Chinese concepts such as 心智, 贪妄, 共振, and 原生家庭 are preserved and explained in English when English is being used.
@@ -48,8 +59,9 @@ This is an educational and self-reflection toolkit, not a clinical diagnostic se
 
 ## Repository contents
 
-- `mind-skills.zip` — bilingual skill package
+- [`mind-skills.zip`](mind-skills.zip) — bilingual skill package
+- [`CONTRIBUTING.md`](CONTRIBUTING.md) — contribution guidelines
 
 ## License
 
-Add the license that matches your intended use before redistributing this project.
+No license has been selected yet. Until a license is added, please do not redistribute modified copies or use the materials beyond what applicable law permits.
