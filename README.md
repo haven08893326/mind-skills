@@ -1,7 +1,7 @@
 # Mind Skills / 心智学技能
 
 [![Language: English + Chinese](https://img.shields.io/badge/language-English%20%2B%20Chinese-blue)](README.md)
-[![Status: Public](https://img.shields.io/badge/status-public-success)](https://github.com/haven08893326/mind-skills)
+[![Status: Public](https://img.shields.io/badge/status-public-success)](https://github.com/AvenHe-Z/mind-skills)
 
 A bilingual, non-clinical self-reflection toolkit for Chinese and English users. It covers emotional maturity, relationships, critical thinking, parenting, adolescent behavior, and workplace culture.
 
@@ -21,7 +21,7 @@ This project is for people who want structured reflection about emotional maturi
 
 ## Quick start
 
-1. Download [`mind-skills.zip`](https://github.com/haven08893326/mind-skills/raw/main/mind-skills.zip).
+1. Download [`mind-skills.zip`](https://github.com/AvenHe-Z/mind-skills/raw/main/mind-skills.zip).
 2. Extract the archive.
 3. Copy the included `mind` folder into your Codex skills directory.
 4. Restart or refresh Codex.
